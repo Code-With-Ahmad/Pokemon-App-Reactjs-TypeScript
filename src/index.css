@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap");
+@import "tailwindcss";
+
+* {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+
+  font-style: normal;
+}
+header h1 {
+  font-weight: bold;
+}
+.btnnn {
+  border-width: 0 1px 1px 0;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
